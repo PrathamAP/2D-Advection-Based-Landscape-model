@@ -7,4 +7,4 @@ basic code fluvial.ipynb contains the base code escarpment and back wasting in g
 simple analysis.ipynb contains the code for analysis of survival times of plateaus in various different settings.
 
 The motivation for this model comes mainly from Alan D. Howard.
-This is am old project which was done as part of regular coursework in the course Landscapes and their evolution taken by Prof. Argha Banerjee. 
+This is an old project which was done as part of regular coursework in the course Landscapes and their evolution taken by Prof. Argha Banerjee. 
